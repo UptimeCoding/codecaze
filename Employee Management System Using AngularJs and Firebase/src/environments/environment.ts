@@ -5,13 +5,20 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'Dummy key.Replace with your API Key',
-    authDomain: 'ngcrud-8a2fc.firebaseapp.com',
-    databaseURL: 'https://ngcrud-8a2fc.firebaseio.com',
-    projectId: 'ngcrud-8a2fc',
-    storageBucket: '',
-    messagingSenderId: 'Dummy ID. Put in your id',
-    appId: 'DummyID. Put in your app id'
+    apiKey: "AIzaSyAYYVwQS_eoobVd_AqU8HyEO-0AVt2ihB8",
+
+  authDomain: "delta-crane-377111.firebaseapp.com",
+
+  projectId: "delta-crane-377111",
+
+  storageBucket: "delta-crane-377111.appspot.com",
+
+  messagingSenderId: "351397033760",
+
+  appId: "1:351397033760:web:fb802e0a64f3193fc60945",
+
+  measurementId: "G-4YC4R521W9"
+
   }
 };
 
