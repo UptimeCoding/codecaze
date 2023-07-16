@@ -14,7 +14,7 @@ THIS REPOSTORY IS CREATED BY SABAREESH FOR CODECAZE INTERN - ASSIGNMENT 1
     <td class="tg-0pky"><a href="https://github.com/UptimeCoding/codecaze/tree/main/Employee%20Management%20System%20Using%20AngularJs%20and%20Firebase" target="_blank" rel="noopener noreferrer">VIEW</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Students Management System Using PHP and MySQL </td>
+    <td class="tg-0pky">Mentor Mentee Management System Using PHP and MySQL </td>
      <td class="tg-0pky"><a href="https://github.com/UptimeCoding/codecaze/tree/Version1" target="_blank" rel="noopener noreferrer">VIEW</a></td>
   </tr>
 </tbody>
