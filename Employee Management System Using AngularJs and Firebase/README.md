@@ -2,6 +2,11 @@
 
 <p id="description">A web app depicting the CRUD operations created with the help of Angular on front-end and Google Cloud Firestore as database hosted on Firebase.</p>
 
+| NAME                                                    | LINK |
+|---------------------------------------------------------|------|
+| Employee Management System Using AngularJs and Firebase | VIEW |
+| Students Management System Using PHP and MySQL          |      |
+
 <h2>Project Screenshots:</h2>
 
 <img src="https://github.com/UptimeCoding/codecaze/blob/main/Employee%20Management%20System%20Using%20AngularJs%20and%20Firebase/screenshots/Screenshot%20(210).png?raw=true" alt="project-screenshot" width="400" height="400/">
