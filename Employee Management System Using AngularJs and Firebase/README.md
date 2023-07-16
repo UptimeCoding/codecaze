@@ -2,10 +2,7 @@
 
 <p id="description">A web app depicting the CRUD operations created with the help of Angular on front-end and Google Cloud Firestore as database hosted on Firebase.</p>
 
-| NAME                                                    | LINK |
-|---------------------------------------------------------|------|
-| Employee Management System Using AngularJs and Firebase | VIEW |
-| Students Management System Using PHP and MySQL          |      |
+
 
 <h2>Project Screenshots:</h2>
 
