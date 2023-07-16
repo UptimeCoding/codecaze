@@ -1,18 +1,36 @@
-# FirebaseCRUD
+<h1 id="title" align="center">Employee Management System Using AngularJs and Firebase</h1>
 
-A web app depicting the CRUD operations, created with the help of Angular on front-end and Google Cloud Firestore as database, hosted on Firebase.
+<p id="description">A web app depicting the CRUD operations created with the help of Angular on front-end and Google Cloud Firestore as database hosted on Firebase.</p>
 
-# Demo
+<h2>Project Screenshots:</h2>
 
-https://ngcrud-8a2fc.firebaseapp.com/
+<img src="https://github.com/UptimeCoding/codecaze/blob/main/Employee%20Management%20System%20Using%20AngularJs%20and%20Firebase/screenshots/Screenshot%20(210).png?raw=true" alt="project-screenshot" width="400" height="400/">
 
-# See Also
+<img src="https://github.com/UptimeCoding/codecaze/blob/main/Employee%20Management%20System%20Using%20AngularJs%20and%20Firebase/screenshots/Screenshot%20(209).png?raw=true" alt="project-screenshot" width="400" height="400/">
 
-- https://github.com/AnkitSharma-007/blogsite
-- https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore
+<h2>🛠️ Installation Steps:</h2>
 
-# License
+<p>1. SETUP NPM</p>
 
-[MIT](https://github.com/AnkitSharma-007/angular-firebase-crud/blob/master/LICENSE)
+```
+npm install
+```
 
+<p>2. RUN APP LOCAL</p>
 
+```
+ng serve-o
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Firebase (Database)
+*   AngularJs
+
+<h2>💖Like my work?</h2>
+
+THIS PROJECT IS MADE BY SABAREESH FOR CODECAZE INTERN
